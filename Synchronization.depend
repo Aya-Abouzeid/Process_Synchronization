@@ -8,10 +8,10 @@
 	<pthread.h>
 	"caltrain.h"
 
-1509013513 /home/aya/Desktop/Projects/Synchronization/caltrain.h
+1509022976 /home/aya/Desktop/Projects/Synchronization/caltrain.h
 	<pthread.h>
 
-1509013917 source:/home/aya/Desktop/Projects/Synchronization/caltrain.c
+1509017655 source:/home/aya/Desktop/Projects/Synchronization/caltrain.c
 	<pthread.h>
 	"caltrain.h"
 
