@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1447456602 source:/home/aya/Desktop/Projects/Synchronization/caltrain-runner.c
+	<stdio.h>
+	<stdlib.h>
+	<signal.h>
+	<time.h>
+	<unistd.h>
+	<pthread.h>
+	"caltrain.h"
+
+1509013513 /home/aya/Desktop/Projects/Synchronization/caltrain.h
+	<pthread.h>
+
+1509013917 source:/home/aya/Desktop/Projects/Synchronization/caltrain.c
+	<pthread.h>
+	"caltrain.h"
+
