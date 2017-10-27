@@ -31,9 +31,13 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="main.c">
+		<Unit filename="caltrain-runner.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="caltrain.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="caltrain.h" />
 		<Extensions>
 			<code_completion />
 			<debugger />
